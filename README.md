@@ -5,6 +5,6 @@
 
 <div align="center">
   <a href="https://github.com/ganimedes96">
-  <img wight = "180em" height="120em" src="https://github-readme-stats.vercel.app/api?username=ganimedes96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img wight = "180em" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganimedes96&layout=compact&langs_count=7&theme=dracula"/>
+  <img wight = "180em" height="150em" src="https://github-readme-stats.vercel.app/api?username=ganimedes96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img wight = "180em" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganimedes96&layout=compact&langs_count=7&theme=dracula"/>
 </div>
