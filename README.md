@@ -3,6 +3,8 @@
 
 - 🌱 Atualmento estou estudando CSS, HTML, JAVASCRIPT, NODE.JS e MYSQL
 
+ ##
+
 <div align="center">
   <a href="https://github.com/ganimedes96">
   <img wight = "180em" height="150em" src="https://github-readme-stats.vercel.app/api?username=ganimedes96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
