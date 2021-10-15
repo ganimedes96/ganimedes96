@@ -1,4 +1,4 @@
-### Ola! Me chamo Hudson 👋
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Hudson Felipe</h1>
 
 
 - 🌱 Atualmento estou estudando CSS, HTML, JAVASCRIPT, NODE.JS e MYSQL
