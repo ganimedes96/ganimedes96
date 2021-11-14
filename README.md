@@ -4,6 +4,7 @@
 <p align="center">- 🌱 I'm currently studying REACT-NATIVE,TYPESCRIPT, NODE.JS and MYSQL</p>
 
  ##
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://cdnb.artstation.com/p/assets/images/images/024/538/827/original/pixel-jeff-clipa-s.gif?1582740711)
 
 <div align="center">
   <a href="https://github.com/ganimedes96">
