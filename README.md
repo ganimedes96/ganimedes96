@@ -4,7 +4,7 @@
 <p align="center">- 🌱 I'm currently studying REACT-NATIVE,TYPESCRIPT, NODE.JS and MYSQL</p>
 
  ##
-<img src="https://cdnb.artstation.com/p/assets/images/images/024/538/827/original/pixel-jeff-clipa-s.gif?1582740711">
+
 
 
 <div align="center">
