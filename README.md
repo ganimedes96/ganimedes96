@@ -1,4 +1,4 @@
-<h1 align="center">Hi guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Hudson Felipe</h1>
+<h1 align="center">Hi guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5px">, I'm Hudson Felipe</h1>
 
 
 <p align="center">- 🌱 I'm currently studying REACT.JS,SASS, NODE.JS and MYSQL</p>
