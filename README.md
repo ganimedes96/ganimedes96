@@ -1,7 +1,7 @@
-<h1 align="center">Hi guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">, I'm Hudson Felipe</h1>
+<h1 align="center">Hi guys, I'm Hudson Felipe</h1>
 
 
-<p align="center">- 🌱 I'm currently studying REACT.JS,SASS, NODE.JS and MYSQL</p>
+<p align="center">- 🌱 I'm currently studying REACT.JS,TypeScript, NODE.JS and MYSQL</p>
 
  ##
 
