@@ -15,7 +15,7 @@
   
 ##
   
-  <table width="320px">
+  <table width="320px" align="center">
      <tbody>
         <tr valign="top">
           <td width="80px" align="center">
@@ -36,7 +36,11 @@
           </td>
           <td width="80px" align="center">
           <span><strong>Git</strong></span><br>
-          <img height="32" src="@styled-icons/boxicons-logos/Git"> 
+          <img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"> 
+          </td>
+          <td width="80px" align="center">
+          <span><strong>Styled Components</strong></span><br>
+          <img height="32" src=https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_styled_icon_130142.png"> 
           </td>
         </tr>
       </tbody>   
