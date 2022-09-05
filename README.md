@@ -40,7 +40,7 @@
           </td>
           <td width="80px" align="center">
           <span><strong>Styled Components</strong></span><br>
-          <img height="32" src=https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_styled_icon_130142.png"> 
+          <img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_styled_icon_130142.png"> 
           </td>
         </tr>
       </tbody>   
