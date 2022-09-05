@@ -15,14 +15,32 @@
   
 ##
   
-    
-  <div style="display: inline_block"><br>
-  <img align="center" alt="felix-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="felix-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="felx-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="felix-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="felix-NodeJs" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
+  <table width="320px">
+     <tbody>
+        <tr valign="top">
+          <td width="80px" align="center">
+          <span><strong>Javascript</strong></span><br>
+          <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+          </td>
+          <td width="80px" align="center">
+          <span><strong>NodeJS</strong></span><br>
+          <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+          </td>
+          <td width="80px" align="center">
+          <span><strong>Python</strong></span><br>
+          <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+          </td>
+          <td width="80px" align="center">
+          <span><strong>React</strong></span><br>
+          <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+          </td>
+          <td width="80px" align="center">
+          <span><strong>GitHub</strong></span><br>
+          <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> 
+          </td>
+        </tr>
+      </tbody>   
+ </table>  
   
  ##
  
