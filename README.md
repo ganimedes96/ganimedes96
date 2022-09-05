@@ -35,8 +35,8 @@
           <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
           </td>
           <td width="80px" align="center">
-          <span><strong>GitHub</strong></span><br>
-          <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> 
+          <span><strong>Git</strong></span><br>
+          <img height="32" src="@styled-icons/boxicons-logos/Git"> 
           </td>
         </tr>
       </tbody>   
