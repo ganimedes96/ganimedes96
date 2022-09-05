@@ -42,6 +42,10 @@
           <span><strong>Styled Components</strong></span><br>
           <img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_styled_icon_130142.png"> 
           </td>
+          <td width="80px" align="center">
+          <span><strong>NextJs</strong></span><br>
+          <img height="32" src="https://cdn.icon-icons.com/icons2/3388/PNG/512/nextjs_icon_212861.png"> 
+          </td>
         </tr>
       </tbody>   
  </table>  
