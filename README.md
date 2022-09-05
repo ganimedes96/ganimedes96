@@ -50,6 +50,10 @@
           <span><strong>Typescript</strong></span><br>
           <img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png"> 
           </td>
+         <td width="80px" align="center">
+          <span><strong>Jest</strong></span><br>
+          <img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_icon_130514.png"> 
+          </td>
         </tr>
       </tbody>   
  </table>  
