@@ -3,8 +3,8 @@
 <div align="center">
  <li align="left">- 🔭 Now I am studying Web Development at <a href="https://betrybe.com">Trybe</a></li>
 <li align="left">- 🌱 I'm currently studying REACT.JS,TypeScript, NODE.JS and MYSQL</li>
-<li> 💬 Ask me about Series,  Movies, Games and Astronomy</li>
-<li> ⚡ Interstellar is my favorite movie</li>
+<li align="left"> 💬 Ask me about Series,  Movies, Games and Astronomy</li>
+<li align="left"> ⚡ Interstellar is my favorite movie</li>
  
 </div>
 
