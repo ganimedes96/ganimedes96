@@ -1,8 +1,8 @@
 <h1 align="center">Hi guys, I'm Hudson Felipe</h1>
 
-<div>
- <li align="center">- 🔭 Now I am studying Web Development at <a href="https://betrybe.com">Trybe</a></li>
-<li align="center">- 🌱 I'm currently studying REACT.JS,TypeScript, NODE.JS and MYSQL</li>
+<div align="center">
+ <li >- 🔭 Now I am studying Web Development at <a href="https://betrybe.com">Trybe</a></li>
+<li >- 🌱 I'm currently studying REACT.JS,TypeScript, NODE.JS and MYSQL</li>
 </div>
 
 
