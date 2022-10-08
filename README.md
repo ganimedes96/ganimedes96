@@ -28,7 +28,6 @@
        <th> nodeJs</th>
        <th> React </th>
        <th> Git</th>
-       <th> NextJs</th>
        <th> Typescript</th>
        <th> Jest</th>
       </tr>    
@@ -43,9 +42,6 @@
          </td>
           <td width="80px" align="center">
            <img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"> 
-         </td>
-          <td width="80px" align="center">
-           <img height="32" src="https://cdn.icon-icons.com/icons2/3388/PNG/512/nextjs_icon_212861.png"> 
          </td>
            <td width="80px" align="center">
           <img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png"> 
