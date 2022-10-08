@@ -7,7 +7,7 @@
 
 - 🌱 I'm currently studying REACT.JS,TypeScript, NODE.JS and MYSQL
 
-- 💬 Ask me about Series,  Movies, Games and Astronomy
+- 💬 Ask me about Javascript, React, NodeJs and Css
 
 - ⚡ Interstellar is my favorite movie
  <br><br><br>
