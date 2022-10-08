@@ -10,60 +10,54 @@
 - 💬 Ask me about Series,  Movies, Games and Astronomy
 
 - ⚡ Interstellar is my favorite movie
- <br><br><br><br>
+ <br><br><br>
 <div align="left">
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:hudsonfelix69@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hudson-felix-577305215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<br><br>
+# Technologies
 
-  <table width="320px" align="center">
+
+
+
+<table  align="left">
+     <thead>
+      <tr>
+       <th> nodeJs</th>
+       <th> React </th>
+       <th> Git</th>
+       <th> NextJs</th>
+       <th> Typescript</th>
+       <th> Jest</th>
+      </tr>    
+ </thead>
      <tbody>
-        <tr valign="top">
+        <tr >
           <td width="80px" align="center">
-          <span><strong>NodeJS</strong></span><br>
-          <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-          </td>
+             <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+         </td>
           <td width="80px" align="center">
-          <span><strong>Python</strong></span><br>
-          <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-          </td>
+             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
+         </td>
           <td width="80px" align="center">
-          <span><strong>React</strong></span><br>
-          <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-          </td>
+           <img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"> 
+         </td>
           <td width="80px" align="center">
-          <span><strong>Git</strong></span><br>
-          <img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"> 
-          </td>
-          <td width="80px" align="center">
-          <span><strong>Styled Components</strong></span><br>
-          <img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_styled_icon_130142.png"> 
-          </td>
-          <td width="80px" align="center">
-          <span><strong>NextJs</strong></span><br>
-          <img height="32" src="https://cdn.icon-icons.com/icons2/3388/PNG/512/nextjs_icon_212861.png"> 
-          </td>
-         <td width="80px" align="center">
-          <span><strong>Typescript</strong></span><br>
+           <img height="32" src="https://cdn.icon-icons.com/icons2/3388/PNG/512/nextjs_icon_212861.png"> 
+         </td>
+           <td width="80px" align="center">
           <img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png"> 
-          </td>
-         <td width="80px" align="center">
-          <span><strong>Jest</strong></span><br>
-          <img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_icon_130514.png"> 
-          </td>
+         </td>
+          <td width="80px" align="center">
+           <img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_icon_130514.png"> 
+         </td>
         </tr>
       </tbody>   
  </table>  
-  
- 
- 
- <div> 
 
  
-  ![Snake animation](https://github.com/ganimedes96/ganimedes96/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+
 
