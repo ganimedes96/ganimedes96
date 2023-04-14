@@ -9,7 +9,7 @@
 
 - 💬 Ask me about Javascript, React, NodeJs and Css
 
--  Astronomia :telescope::milky_way:
+- :telescope: Astronomia 
 
 - ⚡ Interstellar is my favorite movie
  <br><br><br>
