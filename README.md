@@ -3,7 +3,6 @@
 
 
 
-- 🔥 Now I am studying Web Development at <a href="https://betrybe.com">Trybe</a>
 
 - 🌱 I'm currently studying REACT.JS,TypeScript, NODE.JS and MYSQL
 
