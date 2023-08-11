@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I'm currently studying REACT.JS,TypeScript, NODE.JS and MYSQL
+- 🌱 I'm currently studying Go, Kafka and RabbitMq
 
 - 💬 Ask me about Javascript, React, NodeJs and Css
 
